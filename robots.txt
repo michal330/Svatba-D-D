@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://michal330.github.io/Svatba-Dana-a-Daniely/sitemap.xml
